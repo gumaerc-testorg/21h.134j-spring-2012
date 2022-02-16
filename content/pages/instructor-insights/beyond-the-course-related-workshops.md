@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 4b2067a2-adc0-18d4-89d6-f65c79e59e97
 title: 'Beyond the Course: Related Workshops'
 uid: 7ea49c4a-202c-d098-36bc-ccca22ebdae5

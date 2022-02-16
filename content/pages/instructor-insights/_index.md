@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 4b2067a2-adc0-18d4-89d6-f65c79e59e97
 ---
@@ -56,28 +58,6 @@ Curriculum Information
 ### Offered
 
 *   Every spring semester unless Prof. McCants is on leave
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A lecture-style classroom with desks and chalkboards.]({{< resource_file 6367acdd-a188-dafa-5be5-735ade66c34f >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lectures
-    
-    Once a week, the entire class met together for a 1.5-hour lecture from Prof. McCants.
-    
-*   ![A lecture-style classroom with desks and chalkboards.]({{< resource_file 06f532ca-910f-b417-6b24-6d511897bc26 >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Recitations
-    
-    Once a week, the class met in three smaller groups for a 1.5-hour recitation.
-    
 
 {{< anchor "studentinfo" >}}{{< /anchor >}}
 
