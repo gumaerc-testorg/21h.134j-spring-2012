@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012/30895f81ba3d54f28f94b3bbaefa1bfe_21H-134J_stat-students.png
+file: /courses/21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012/30895f81ba3d54f28f94b3bbaefa1bfe_21H-134J_stat-students.png
 file_type: image/png
 image_metadata:
   caption: ''

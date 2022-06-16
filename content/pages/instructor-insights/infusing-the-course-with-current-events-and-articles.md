@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the professor's descriptions of how current events
+  and articles were incorporated into the course.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

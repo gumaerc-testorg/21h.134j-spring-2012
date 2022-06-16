@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the professor's thoughts on how research and teaching
+  sometimes impact each other.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: "This section contains a survey given on the first day of class and the\
+  \ professor\u2019s explanation of the survey's purposes."
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

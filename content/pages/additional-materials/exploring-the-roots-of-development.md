@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides additional materials on public welfare and economic
+  growth.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Additional Materials
@@ -48,5 +50,4 @@ An economics that accounted for the silent and invisible contributions of care w
 
 {{< sup "7" >}}Lindert, Peter. _Growing Public: Social Spending and Economic Growth Since the Eighteenth Century_. Cambridge University press, 2004, especially Chapter 10 of Volume 1 and Chapter 18 of Volume 2.
 
-[« Back to Additional Materials  
-]({{< baseurl >}}/pages/additional-materials)
+{{% resource_link "a1f4d977-aeb4-e411-3598-1fb8c11af68f" "« Back to Additional Materials   " %}}
