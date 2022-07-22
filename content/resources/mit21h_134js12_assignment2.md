@@ -5,6 +5,7 @@ file: /courses/21h-134j-medieval-economic-history-in-comparative-perspective-spr
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Assignment 2 Resources
 uid: 0c1fa0e9-f35d-8a03-6c64-22adbd8432a3
 ---
 This file provides information about assignments.
-
