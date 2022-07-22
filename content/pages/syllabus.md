@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, written and oral communication requirements, late papers and absence
+  policy, grading, and the schedule of course topics and key dates for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: f425ce87-4276-a5a3-84b5-fc55463c13e6
 ---

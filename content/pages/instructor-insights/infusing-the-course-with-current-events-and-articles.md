@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: This section contains the professor's descriptions of how current events
+  and articles were incorporated into the course.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 4b2067a2-adc0-18d4-89d6-f65c79e59e97
 title: Infusing the Course with Current Events and Articles
 uid: 4c8326ba-39b9-d57c-0bd8-b8bb54ac5281

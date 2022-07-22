@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides links to related resources on medieval history.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: a39008b2-5d87-fff4-98b7-e8df8f1ba54e
 ---

@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: "This section contains a survey given on the first day of class and the\
+  \ professor\u2019s explanation of the survey's purposes."
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 4b2067a2-adc0-18d4-89d6-f65c79e59e97
 title: Starting the Course with a Survey
 uid: 645990c6-8fa1-387d-b63f-3f1360ea243b
@@ -22,7 +27,7 @@ The survey questions are given below. The numbers given in parentheses behind ea
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Medieval Economy: First Day of Class Survey
 {{< thclose >}}
 
@@ -131,7 +136,7 @@ Speaking in class is easier if:
 {{< tdopen >}}
 I learn well when: (circle all that apply)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
  
 {{< tdclose >}}
 

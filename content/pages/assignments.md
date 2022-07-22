@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides descriptions of the course assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: d9c117d4-dce6-b272-8e3b-4d65e031886c
 ---
@@ -18,7 +22,7 @@ Use the document that contains three short excerpts from an early 5th century de
 
 You should write roughly three pages double spaced, in which you can raise questions about the selections as well as reflect on what the selections tell us about economic and/or social conditions in the 5th and 6th centuries. Keep in mind as you work the broader issues we have raised in class. You are welcome to consult outside materials if you feel you need to understand the context better, but the fundamental point of this exercise is for you to do a close reading of some primary sources and to see what you can discern from within the text itself. So don't rely much on outside reading if you are tempted to do some.
 
-[Documents for Short Paper 2 (PDF)]({{< baseurl >}}/resources/mit21h_134js12_assignment2)
+{{% resource_link 0c1fa0e9-f35d-8a03-6c64-22adbd8432a3 "Documents for Short Paper 2 (PDF)" %}}
 
 Short Paper 3 – Due Session 10
 ------------------------------

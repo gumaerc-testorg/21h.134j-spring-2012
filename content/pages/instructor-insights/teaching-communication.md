@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: This section contains the professor's descriptions of the communication
+  assignments in the course.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 4b2067a2-adc0-18d4-89d6-f65c79e59e97
 title: Teaching Communication
 uid: a96c0290-47b6-4ef1-8e12-1ced86adb8a3
@@ -13,7 +18,7 @@ _This course satisfies a communication requirement at MIT. In this section, Prof
 
 I want my students to communicate well. Students can have fantastic ideas, but if they can't communicate them, the ideas are pretty useless.
 
-This course satisfies MIT's [Communication Intensive in Humanities, Arts, and Social Sciences (CI-H) Requirement](http://web.mit.edu/commreq/), which requires that students write at least 20 pages; revise and resubmit at least one assignment; and engage in oral expression through presentations, discussions, or class participation. Every undergraduate at MIT is required to take two CI-H courses. The [written and oral assignments]({{< baseurl >}}/pages/assignments) for this course are described below.
+This course satisfies MIT's [Communication Intensive in Humanities, Arts, and Social Sciences (CI-H) Requirement](http://web.mit.edu/commreq/), which requires that students write at least 20 pages; revise and resubmit at least one assignment; and engage in oral expression through presentations, discussions, or class participation. Every undergraduate at MIT is required to take two CI-H courses. The {{% resource_link d9c117d4-dce6-b272-8e3b-4d65e031886c "written and oral assignments" %}} for this course are described below.
 
 Short Paper #1: Discussion of a "Technology" (3 pages)
 ------------------------------------------------------

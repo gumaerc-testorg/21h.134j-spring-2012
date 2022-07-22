@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: This section contains the professor's explanation of how the course helps
+  students develop as thinkers.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 4b2067a2-adc0-18d4-89d6-f65c79e59e97
 title: Teaching Students to Think, Problem Solve, and Make Connections
 uid: 285c8dc7-bae3-a453-4b28-2a1b9de4c8e8
@@ -51,6 +56,6 @@ I like my students to leave the class knowing more about the way the world was i
 
 Because this particular course is an economic history course, I also have an agenda to get the students thinking about what economies should do in a prescriptive—maybe even moral and ethical—sense, and what economies actually do and how they work. If that gets them thinking about the modern world in practical ways, then I'm thrilled.
 
-Throughout the semester, I try to help students forge connections among history, current events, and their lives. I often do this by [bringing very current news and writing into the classroom]({{< baseurl >}}/pages/instructor-insights/infusing-the-course-with-current-events-and-articles) and devoting class time to discussions that help us all build those connections.
+Throughout the semester, I try to help students forge connections among history, current events, and their lives. I often do this by {{% resource_link 4c8326ba-39b9-d57c-0bd8-b8bb54ac5281 "bringing very current news and writing into the classroom" %}} and devoting class time to discussions that help us all build those connections.
 
 Sometimes we pursue tangents unrelated to the course content. One tangent we always pursue is how hard writing is. Much of what paralyzes the students about writing is that most of them have always been told, "Oh, you're a math/science person. You don't write." The students universally presume that since I'm a historian, I find writing easy. Sometimes I'll tell them about all the things I did over the weekend to avoid writing a paper. Whenever I can, I try to break down presumptions about "This I can do, that I can't do. I'm good at this, I'm not good at that." The vast majority of them could communicate well if they just put a little more effort into it.
