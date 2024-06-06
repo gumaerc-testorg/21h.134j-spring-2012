@@ -109,13 +109,13 @@ During an average week, students were expected to spend 12 hours on the course, 
 
 ## Course Team Roles
 
-### Lead Instructor ({{% resource_link "7aeea54f-9dd9-4944-aaf6-362e73c0c3e0" "Prof. Anne McCants" %}} - {{% resource_link "40ab846c-8353-4995-967e-4a486c634a70" "additional profile" %}})
+### Lead Instructor ([Prof. Anne McCants](http://history.mit.edu/people/anne-e-c-mccants) - [additional profile](http://shass.mit.edu/magazine/spring_10/medieval_tech))
 
 - Lead instructor; responsible for course development and organization
 - Lectured every Monday unless she was out of town
 - Led a recitation section on Wednesdays
 
-### Teaching Assistants (2) - typically a senior lecturer ({{% resource_link "f70af629-aaba-491b-955a-b691661091a5" "Dr. Steven Ostrow" %}}) and a graduate student
+### Teaching Assistants (2) - typically a senior lecturer ([Dr. Steven Ostrow](http://history.mit.edu/people/steven-ostrow)) and a graduate student
 
 - Fully led one recitation section each: taught the section, met with students, graded papers on their own terms. When there’s a first-time TA, the course staff meets to calibrate paper grading, but beyond that, Teaching Assistants have jurisdiction over their students’ papers.
 - Sometimes helped out in the main lecture during interactive activities
