@@ -26,9 +26,9 @@ This course offers credit for the CI-H requirement and will strongly emphasize t
 
 No internet sources should be consulted for your papers, other than those which are either primary source collections, or are academically refereed sites. If you are unsure about a site, please consult with one of us prior to using it. If used, all internet sources must be properly footnoted and cited in your bibliography at the end of your paper just as for any other type of source. Plagiarism from any source will not be tolerated. Plagiarism earns an automatic F (0%) for the assignment. Moreover, all cases of plagiarism will be reported to the COD for their consideration of the appropriate disciplinary action to take with the student involved. If you are unsure what plagiarism is please see the MIT Online Writing Communication Center. If you are still uncertain, please see me.
 
-Check out the {{% resource_link "d8ce2b6e-09be-40cd-bd29-d1e6b0420b01" "MIT Online Writing and Communication Center" %}}.
+Check out the [MIT Online Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/).
 
-Check out {{% resource_link "44c2ce0d-511c-4991-80e0-eb5542098866" "Writing Resources on the World Wide Web" %}} for some immediate guidance.
+Check out [Writing Resources on the World Wide Web](http://web.mit.edu/uaa/www/writing/links/) for some immediate guidance.
 
 Late Papers and Absence Policy
 ------------------------------
