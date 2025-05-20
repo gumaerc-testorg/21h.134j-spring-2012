@@ -11,7 +11,7 @@ uid: 4b2067a2-adc0-18d4-89d6-f65c79e59e97
 ---
 ## Course Overview
 
-This page focuses on the course _21H.134J_ _Medieval Economic History in Comparative Perspective_ as it was taught by Professor Anne McCants in Spring 2012.
+This page focuses on the course *21H.134J* *Medieval Economic History in Comparative Perspective* as it was taught by Professor Anne McCants in Spring 2012.
 
 This course surveys the conditions of material life and changing social and economic conditions in medieval Europe with reference to the comparative context of contemporary Islamic, Chinese, and central Asian experiences. Beyond the content, this course is intended to help students think, problem solve, and communicate.
 
@@ -19,8 +19,8 @@ This course surveys the conditions of material life and changing social and econ
 
 ### Course Goals for Students
 
-- {{% resource_link 285c8dc7-bae3-a453-4b28-2a1b9de4c8e8 "To hone their ability to think, problem solve, and make connections" %}}
-- To develop their ability to fashion and {{% resource_link a96c0290-47b6-4ef1-8e12-1ced86adb8a3 "communicate" %}} ideas
+- {{% resource_link "285c8dc7-bae3-a453-4b28-2a1b9de4c8e8" "To hone their ability to think, problem solve, and make connections" %}}
+- To develop their ability to fashion and {{% resource_link "a96c0290-47b6-4ef1-8e12-1ced86adb8a3" "communicate" %}} ideas
 - To understand a world different from their own; to gain the perspective that their presumptions are a construction of the world that they grew up in and the experiences that they’ve had
 - To think critically about the function and obligation of economies
 - To learn to read texts
@@ -32,15 +32,15 @@ This course surveys the conditions of material life and changing social and econ
 
 {{< quote "Humanities classes help students fashion ideas, think critically, problem solve, make connections, understand different perspectives, and communicate." "— Prof. McCants" >}}
 
-In the following pages, Prof. McCants describes various aspects of how she teaches _21H.134J_ _Medieval Economic History in Comparative Perspective_.
+In the following pages, Prof. McCants describes various aspects of how she teaches *21H.134J* *Medieval Economic History in Comparative Perspective*.
 
-- {{% resource_link 645990c6-8fa1-387d-b63f-3f1360ea243b "Starting the Course with a Survey" %}}
-- {{% resource_link 285c8dc7-bae3-a453-4b28-2a1b9de4c8e8 "Teaching Students to Think, Problem Solve, and Make Connections" %}}
-- {{% resource_link 4c8326ba-39b9-d57c-0bd8-b8bb54ac5281 "Infusing the Course with Current Events and Articles" %}}
-- {{% resource_link a96c0290-47b6-4ef1-8e12-1ced86adb8a3 "Teaching Communication" %}}
-- {{% resource_link 7c6b4cc6-65f0-e1dd-462f-9b3f9208cd66 "The Intersection of Research and Teaching" %}}
-- {{% resource_link 9d3e1c6a-4a7c-7bbe-f5ee-6fbaba9700fd "Adapting the Course from Year to Year" %}}
-- {{% resource_link 7ea49c4a-202c-d098-36bc-ccca22ebdae5 "Beyond the Course: Related Workshops" %}}
+- {{% resource_link "645990c6-8fa1-387d-b63f-3f1360ea243b" "Starting the Course with a Survey" %}}
+- {{% resource_link "285c8dc7-bae3-a453-4b28-2a1b9de4c8e8" "Teaching Students to Think, Problem Solve, and Make Connections" %}}
+- {{% resource_link "4c8326ba-39b9-d57c-0bd8-b8bb54ac5281" "Infusing the Course with Current Events and Articles" %}}
+- {{% resource_link "a96c0290-47b6-4ef1-8e12-1ced86adb8a3" "Teaching Communication" %}}
+- {{% resource_link "7c6b4cc6-65f0-e1dd-462f-9b3f9208cd66" "The Intersection of Research and Teaching" %}}
+- {{% resource_link "9d3e1c6a-4a7c-7bbe-f5ee-6fbaba9700fd" "Adapting the Course from Year to Year" %}}
+- {{% resource_link "7ea49c4a-202c-d098-36bc-ccca22ebdae5" "Beyond the Course: Related Workshops" %}}
 
 ## Curriculum Information
 
@@ -91,7 +91,7 @@ During an average week, students were expected to spend 12 hours on the course, 
 - All students together
 - Taught by Prof. McCants unless she was out of town
 - A “chatty” lecture with lots of questions and answers from both the instructor and the students
-- Interactive exercises, such as the {{% resource_link 645990c6-8fa1-387d-b63f-3f1360ea243b "start-of-term survey" %}}, board exercises, and other activities that got people standing up and moving around or writing
+- Interactive exercises, such as the {{% resource_link "645990c6-8fa1-387d-b63f-3f1360ea243b" "start-of-term survey" %}}, board exercises, and other activities that got people standing up and moving around or writing
 
 ### Recitation
 
@@ -102,14 +102,14 @@ During an average week, students were expected to spend 12 hours on the course, 
 
 ### Out of Class
 
-- {{% resource_link cdb02463-2b27-7fa7-36e4-d9eb259bf9c5 "Readings" %}}
-- {{% resource_link d9c117d4-dce6-b272-8e3b-4d65e031886c "Assignments" %}}
+- {{% resource_link "cdb02463-2b27-7fa7-36e4-d9eb259bf9c5" "Readings" %}}
+- {{% resource_link "d9c117d4-dce6-b272-8e3b-4d65e031886c" "Assignments" %}}
 
 {{< anchor "roles" >}}{{< /anchor >}}
 
 ## Course Team Roles
 
-### Lead Instructor ([Prof. Anne McCants](http://history.mit.edu/people/anne-e-c-mccants) - [additional profile](http://shass.mit.edu/magazine/spring_10/medieval_tech))
+### Lead Instructor ([Prof. Anne McCants](http://history.mit.edu/people/anne-e-c-mccants) - [additional profile](https://concourse.mit.edu/faculty/anne-mccants/))
 
 - Lead instructor; responsible for course development and organization
 - Lectured every Monday unless she was out of town
