@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file provides information about assignments.
-file: /ol-ocw-studio-app/courses/21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012/0c1fa0e9f35d8a036c6422adbd8432a3_MIT21H_134JS12_Assignment2.pdf
+file: /courses/21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012/0c1fa0e9f35d8a036c6422adbd8432a3_MIT21H_134JS12_Assignment2.pdf
 file_size: 266014
 file_type: application/pdf
 learning_resource_types:

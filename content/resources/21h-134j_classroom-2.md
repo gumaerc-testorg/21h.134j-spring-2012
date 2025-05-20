@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012/06f532ca910fb4176b246d511897bc26_21H-134J_classroom-2.png
+file: /courses/21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012/06f532ca910fb4176b246d511897bc26_21H-134J_classroom-2.png
 file_size: 89660
 file_type: image/png
 image_metadata:
