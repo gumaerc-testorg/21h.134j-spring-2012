@@ -24,7 +24,7 @@ We should probably not be teaching our expertise because we know it so well, we'
 
 I'm really conscious about that. When I get to some moment in the course where I'm teaching something I'm currently working on, I try to keep it really short. If possible, I get someone else to come in and do it, though I know that sounds absurd.
 
-I usually assign exactly one thing I've written as a reading; in Spring 2012, it was the article, "[Exotic Goods, Popular Consumption, and the Standard of Living: Thinking about Globalization in the Early Modern World](http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/journal_of_world_history/v018/18.4mccants.html)." I want my students to know I actually do write. I try to have the TAs teach it in recitation rather than have me teach it in lecture, and that's always the class where I feel like students in my own recitation would have been better off being in one of the other recitation sections.
+I usually assign exactly one thing I've written as a reading; in Spring 2012, it was the article, "{{% resource_link "697f941e-7690-47ff-9adc-b1b87f8293c7" "Exotic Goods, Popular Consumption, and the Standard of Living: Thinking about Globalization in the Early Modern World" %}}." I want my students to know I actually do write. I try to have the TAs teach it in recitation rather than have me teach it in lecture, and that's always the class where I feel like students in my own recitation would have been better off being in one of the other recitation sections.
 
 Teaching Inspires Research Ideas
 --------------------------------
