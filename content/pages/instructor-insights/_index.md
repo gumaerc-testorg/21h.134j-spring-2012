@@ -109,13 +109,13 @@ During an average week, students were expected to spend 12 hours on the course, 
 
 ## Course Team Roles
 
-### Lead Instructor ([Prof. Anne McCants](http://history.mit.edu/people/anne-e-c-mccants) - [additional profile](https://concourse.mit.edu/faculty/anne-mccants/))
+### Lead Instructor ({{% resource_link "5598b7a0-bf42-49f9-abe9-b441977f25c1" "Prof. Anne McCants" %}} - {{% resource_link "60f3dde2-e19e-4934-860f-75ae4584c67c" "additional profile" %}})
 
 - Lead instructor; responsible for course development and organization
 - Lectured every Monday unless she was out of town
 - Led a recitation section on Wednesdays
 
-### Teaching Assistants (2) - typically a senior lecturer ([Dr. Steven Ostrow](http://history.mit.edu/people/steven-ostrow)) and a graduate student
+### Teaching Assistants (2) - typically a senior lecturer ({{% resource_link "1c4f1eee-c820-46e2-abe0-c2122ed11bb4" "Dr. Steven Ostrow" %}}) and a graduate student
 
 - Fully led one recitation section each: taught the section, met with students, graded papers on their own terms. When there’s a first-time TA, the course staff meets to calibrate paper grading, but beyond that, Teaching Assistants have jurisdiction over their students’ papers.
 - Sometimes helped out in the main lecture during interactive activities
