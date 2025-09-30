@@ -10,7 +10,7 @@ uid: a1f4d977-aeb4-e411-3598-1fb8c11af68f
 ---
 ## Public Welfare and Economic Growth
 
-Originally published: McCants, Anne E.C. "[Public Welfare and Economic Growth](http://www.tandfonline.com/doi/full/10.1080/20780389.2012.657825#.UuaM-_ZOky4)." *Economic History of Developing Regions* 27 Supplement 1 (2012): S86-S91.
+Originally published: McCants, Anne E.C. "{{% resource_link "59ce506d-551f-43dd-949f-1eedd31c6083" "Public Welfare and Economic Growth" %}}." *Economic History of Developing Regions* 27 Supplement 1 (2012): S86-S91.
 
 Adam Smith grounded his famous critique of the political economy of mercantilism on the charge that it was a system inimical to advancing the material and social welfare of people. {{% resource_link 1cb06f1f-a943-d2e9-4902-f96d91d85ff4 "Read more" %}}.
 
