@@ -18,7 +18,7 @@ _This course satisfies a communication requirement at MIT. In this section, Prof
 
 I want my students to communicate well. Students can have fantastic ideas, but if they can't communicate them, the ideas are pretty useless.
 
-This course satisfies MIT's {{% resource_link "3c8bed4d-953e-4c1b-a6ad-79393faa20fe" "Communication Intensive in Humanities, Arts, and Social Sciences (CI-H) Requirement" %}}, which requires that students write at least 20 pages; revise and resubmit at least one assignment; and engage in oral expression through presentations, discussions, or class participation. Every undergraduate at MIT is required to take two CI-H courses. The {{% resource_link d9c117d4-dce6-b272-8e3b-4d65e031886c "written and oral assignments" %}} for this course are described below.
+This course satisfies MIT's [Communication Intensive in Humanities, Arts, and Social Sciences (CI-H) Requirement](http://web.mit.edu/commreq/), which requires that students write at least 20 pages; revise and resubmit at least one assignment; and engage in oral expression through presentations, discussions, or class participation. Every undergraduate at MIT is required to take two CI-H courses. The {{% resource_link d9c117d4-dce6-b272-8e3b-4d65e031886c "written and oral assignments" %}} for this course are described below.
 
 Short Paper #1: Discussion of a "Technology" (3 pages)
 ------------------------------------------------------
